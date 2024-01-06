@@ -1,2 +1,1 @@
-# stock-analysis
-UofM bootcamp challenge 2
+# VBA-challenge (UofM bootcamp challenge 2)
