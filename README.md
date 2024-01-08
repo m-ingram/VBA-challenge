@@ -1,6 +1,6 @@
 # VBA-challenge (UofM bootcamp challenge 2)
 
-This repository contains a vbs script that generates summary tables for annual stock data. To add the vbs script to your excel file, go to the developer tab and open Visual Basic.  From the file menu, select "Import File" and select "stock_summary_ingram.vbs".  If you don't see it, make sure you have the "All files" option selected.
+This repository contains a vbs script that generates summary tables for annual stock data. To add the vbs script to an excel file, download "stock_summary_ingram.vbs". From your excel file, go to the developer tab and open Visual Basic.  From the file menu, select "Import File" and select "stock_summary_ingram.vbs".  If you don't see it, make sure you have the "All files" option selected.
 
 The summary table generated includes yearly change from the opening price at the beginning of a given year to the closing price at the end of that year, the percentage change from the opening price at the beginning of a given year to the closing price at the end of that year, and the total stock volume of the stock for each stock.
 
