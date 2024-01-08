@@ -7,6 +7,6 @@ The summary table generated includes yearly change from the opening price at the
 The script also reports the stocks with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 
 Note: For the script to perform correctly, each worksheet's data must be in columns A:G and in the follwing order:
-'<ticker>,<date>,<open>,<high>,<low>,<close>,<vol>.
+'ticker, date, open, high, low, close, vol.
 
 
